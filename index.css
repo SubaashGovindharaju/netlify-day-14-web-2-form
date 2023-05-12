@@ -1,0 +1,33 @@
+
+
+body {
+    background-color: rgb(202, 205, 199);
+    color: rgb(0, 0, 0);
+}
+
+.span {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+button {
+    background-color: rgb(121, 163, 177);
+}
+
+table {
+    overflow: scroll;
+}
+
+.margin {
+    margin: 3%;
+}
+
+@media not all {
+    .modified {
+        width: 100%;
+    }
+}
+
+.form-control{
+    border-radius: 25px;
+}
